@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Salut c'est quentin le bg
 =======
+=======
+>>>>>>> fractal
   #                           
                         # # #                         
                           #                           
@@ -28,4 +31,7 @@ Salut c'est quentin le bg
                           #                           
                         # # #                         
                           #                 
+<<<<<<< HEAD
 >>>>>>> 5986037... Ajout dans le fichier Quentin
+=======
+>>>>>>> fractal
