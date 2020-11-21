@@ -1,0 +1,15 @@
+Benoît Mandelbrot est un mathématicien polono-franco-américain. 
+Il est le découvreur des fractales, nouvelle classe d'objets mathématiques, dont fait partie l'ensemble de Mandelbrot.
+
+      __/\__ 
+      \    /   
+__/\__/    \__/\__
+\                /
+/_              _\
+  \            /
+__/            \__ 
+\                /
+/_  __      __  _\
+  \/  \    /  \/
+      /_  _\
+        \/
