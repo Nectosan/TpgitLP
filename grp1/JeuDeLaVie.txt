@@ -1,0 +1,13 @@
+Jeu de la vie
+
+
+Le jeu de la vie est un automate cellulaire imaginé par John Horton Conway en 1970 et qui est probablement le plus connu de tous les automates cellulaires. 
+Malgré des règles très simples, le jeu de la vie est Turing-complet.
+Le jeu de la vie est un jeu de simulation au sens mathématique plutôt que ludique.
+
+         _o_
+    ._ ,'   `o'
+----(_)      :       ^aNT
+    '  `.   .o
+         ~o~  `
+          '
